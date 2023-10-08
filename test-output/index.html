@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-Default_suite" class="navigator-link">
+              <span class="suite-name border-passed">Default suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-Default_suite" class="navigator-link ">
+                    <span>C:\Users\dell\AppData\Local\Temp\testng-eclipse-340648492\testng-customsuite.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-Default_suite" class="navigator-link ">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-Default_suite" class="navigator-link ">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-Default_suite" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-Default_suite" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-Default_suite" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-Default_suite" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">1 method,   1 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Default_suite" class="hide-methods passed suite-Default_suite"> (hide)</a> <!-- hide-methods passed suite-Default_suite -->
+                      <a href="#" panel-name="suite-Default_suite" class="show-methods passed suite-Default_suite"> (show)</a> <!-- show-methods passed suite-Default_suite -->
+                    </span>
+                    <div class="method-list-content passed suite-Default_suite">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="com.uhc.tests.InternalUsersTests" class="method navigator-link" hash-for-method="tc1">tc1</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Default_suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Default_suite" class="panel Default_suite">
+          <div class="suite-Default_suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.uhc.tests.InternalUsersTests</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="tc1">
+                  </a> <!-- tc1 -->
+                  <span class="method-name">tc1</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Default_suite-class-passed -->
+        </div> <!-- panel Default_suite -->
+        <div panel-name="test-xml-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\dell\AppData\Local\Temp\testng-eclipse-340648492\testng-customsuite.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;Default suite&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Default test&quot; verbose=&quot;2&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.uhc.tests.InternalUsersTests&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Default test --&gt;
+&lt;/suite&gt; &lt;!-- Default suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Default test (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Default_suite');
+function tableData_Default_suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(1);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'tc1')
+data.setCell(0, 2, 'com.uhc.tests.InternalUsersTests')
+data.setCell(0, 3, 228865);
+window.suiteTableData['Default_suite']= { tableData: data, tableDiv: 'times-div-Default_suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 3 minutes</span>
+              <div id="times-div-Default_suite">
+              </div> <!-- times-div-Default_suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">tc1</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Shop insurance displayed<br></span>
+                <span class="reporter-method-output">Member resources displayed<br></span>
+                <span class="reporter-method-output">Shop insurance displayed<br></span>
+                <span class="reporter-method-output">Medicare displayed<br></span>
+                <span class="reporter-method-output">Health insurance plans displayed<br></span>
+                <span class="reporter-method-output">Medicaid displayed<br></span>
+                <span class="reporter-method-output">Dental, vision & more displayed<br></span>
+                <span class="reporter-method-output">Group plans for employers displayed<br></span>
+                <span class="reporter-method-output">Learn about insurance displayed<br></span>
+                <span class="reporter-method-output">Shop all plans displayed<br></span>
+                <span class="reporter-method-output">Shop insurance color verified<br></span>
+                <span class="reporter-method-output">Medicare color verified<br></span>
+                <span class="reporter-method-output">Health insurance plans color verified<br></span>
+                <span class="reporter-method-output">Medicaid color verified<br></span>
+                <span class="reporter-method-output">Dental, vision & more color verified<br></span>
+                <span class="reporter-method-output">Group plans for employers color verified<br></span>
+                <span class="reporter-method-output">Learn about insurance color verified<br></span>
+                <span class="reporter-method-output">Shop all plans color verified<br></span>
+                <span class="reporter-method-output">Medicare background color verified<br></span>
+                <span class="reporter-method-output">Medicare padding verified<br></span>
+                <span class="reporter-method-output">Medicare Advantage plans displayed<br></span>
+                <span class="reporter-method-output">Medicare supplement plans displayed<br></span>
+                <span class="reporter-method-output">Medicare prescription drug plans displayed<br></span>
+                <span class="reporter-method-output">Dual Special Needs plan (D-SNP) displayed<br></span>
+                <span class="reporter-method-output">Shop all Medicare plans displayed<br></span>
+                <span class="reporter-method-output">Help me find a plan displayed<br></span>
+                <span class="reporter-method-output">Estimate drug costs displayed<br></span>
+                <span class="reporter-method-output">Search for a pharmacy displayed<br></span>
+                <span class="reporter-method-output">Find a doctor displayed<br></span>
+                <span class="reporter-method-output">Find a dentist displayed<br></span>
+                <span class="reporter-method-output">Medicare overview displayed<br></span>
+                <span class="reporter-method-output">Health insurance plans background color verified<br></span>
+                <span class="reporter-method-output">Health insurance plans padding verified<br></span>
+                <span class="reporter-method-output">Short term plans displayed<br></span>
+                <span class="reporter-method-output">ACA marketplace plans displayed<br></span>
+                <span class="reporter-method-output">Plans through work displayed<br></span>
+                <span class="reporter-method-output">All health insurance plans displayed<br></span>
+                <span class="reporter-method-output">Short term vs. ACA plans displayed<br></span>
+                <span class="reporter-method-output">Open enrollment displayed<br></span>
+                <span class="reporter-method-output">Qualifying life events displayed<br></span>
+                <span class="reporter-method-output">Medicaid renewal displayed<br></span>
+                <span class="reporter-method-output">Medicaid incorrect background color exist<br></span>
+                <span class="reporter-method-output">Medicaid padding verified<br></span>
+                <span class="reporter-method-output">Medicaid plans displayed<br></span>
+                <span class="reporter-method-output">Dual Special Needs plans (D-SNP) displayed<br></span>
+                <span class="reporter-method-output">Children’s Health Insurance plans (CHIP) displayed<br></span>
+                <span class="reporter-method-output">Try our plan eligibility tool displayed<br></span>
+                <span class="reporter-method-output">Dental, vision & more background color verified<br></span>
+                <span class="reporter-method-output">Dental, vision & more padding verified<br></span>
+                <span class="reporter-method-output">Shop all supplemental plans displayed<br></span>
+                <span class="reporter-method-output">Dental insurance displayed<br></span>
+                <span class="reporter-method-output">Vision insurance displayed<br></span>
+                <span class="reporter-method-output">Accident insurance displayed<br></span>
+                <span class="reporter-method-output">Critical illness insurance displayed<br></span>
+                <span class="reporter-method-output">Hospital & doctor fixed indemnity insurance displayed<br></span>
+                <span class="reporter-method-output">Hospitalization insurance displayed<br></span>
+                <span class="reporter-method-output">Group plans for employers background color verified<br></span>
+                <span class="reporter-method-output">Group plans for employers padding verified<br></span>
+                <span class="reporter-method-output">Small business displayed<br></span>
+                <span class="reporter-method-output">Large organizations displayed<br></span>
+                <span class="reporter-method-output">All group plans for employers displayed<br></span>
+                <span class="reporter-method-output">Learn about insurance background color verified<br></span>
+                <span class="reporter-method-output">Learn about insurance padding verified<br></span>
+                <span class="reporter-method-output">Understanding health insurance displayed<br></span>
+                <span class="reporter-method-output">Open enrollment displayed<br></span>
+                <span class="reporter-method-output">Qualifying life events displayed<br></span>
+                <span class="reporter-method-output">Managing costs displayed<br></span>
+                <span class="reporter-method-output">Medicaid renewal displayed<br></span>
+                <span class="reporter-method-output">Benefits & coverage displayed<br></span>
+                <span class="reporter-method-output">Medicare articles & resources displayed<br></span>
+                <span class="reporter-method-output">Newsroom displayed<br></span>
+                <span class="reporter-method-output">All news & articles displayed<br></span>
+                <span class="reporter-method-output">Resources displayed<br></span>
+                <span class="reporter-method-output">Choosing a doctor displayed<br></span>
+                <span class="reporter-method-output">Member ID card displayed<br></span>
+                <span class="reporter-method-output">Pharmacy benefits displayed<br></span>
+                <span class="reporter-method-output">Forms displayed<br></span>
+                <span class="reporter-method-output">Health & wellness topics displayed<br></span>
+                <span class="reporter-method-output">All member resources displayed<br></span>
+                <span class="reporter-method-output">Resources color verified<br></span>
+                <span class="reporter-method-output">Choosing a doctor color verified<br></span>
+                <span class="reporter-method-output">Member ID card color verified<br></span>
+                <span class="reporter-method-output">Pharmacy benefits color verified<br></span>
+                <span class="reporter-method-output">Forms incorrect color exist<br></span>
+                <span class="reporter-method-output">Health & wellness topics color verified<br></span>
+                <span class="reporter-method-output">All member resources color verified<br></span>
+                <span class="reporter-method-output">Programs & tools displayed<br></span>
+                <span class="reporter-method-output">UHC app displayed<br></span>
+                <span class="reporter-method-output">Rewards programs displayed<br></span>
+                <span class="reporter-method-output">Mental health programs displayed<br></span>
+                <span class="reporter-method-output">Virtual visits displayed<br></span>
+                <span class="reporter-method-output">All member programs displayed<br></span>
+                <span class="reporter-method-output">Programs & tools color verified<br></span>
+                <span class="reporter-method-output">UHC app color verified<br></span>
+                <span class="reporter-method-output">Rewards programs color verified<br></span>
+                <span class="reporter-method-output">Mental health programs color verified<br></span>
+                <span class="reporter-method-output">Virtual visits color verified<br></span>
+                <span class="reporter-method-output">All member programs color verified<br></span>
+                <span class="reporter-method-output">Email Icon displayed<br></span>
+                <span class="reporter-method-output">invalid email id verified<br></span>
+                <span class="reporter-method-output">valid email id verified<br></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.uhc.tests.InternalUsersTests</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">tc1</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- test-method -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+<script type="text/javascript" src="testng-reports2.js"></script>
+</html>

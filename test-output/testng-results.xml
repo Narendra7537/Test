@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Shop insurance displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Member resources displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Shop insurance displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Medicare displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Health insurance plans displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Medicaid displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Dental, vision & more displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Group plans for employers displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Learn about insurance displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Shop all plans displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Shop insurance color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Medicare color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Health insurance plans color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Medicaid color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Dental, vision & more color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Group plans for employers color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Learn about insurance color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Shop all plans color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Medicare background color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Medicare padding verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Medicare Advantage plans displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Medicare supplement plans displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Medicare prescription drug plans displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Dual Special Needs plan (D-SNP) displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Shop all Medicare plans displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Help me find a plan displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Estimate drug costs displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Search for a pharmacy displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Find a doctor displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Find a dentist displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Medicare overview displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Health insurance plans background color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Health insurance plans padding verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Short term plans displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[ACA marketplace plans displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Plans through work displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[All health insurance plans displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Short term vs. ACA plans displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Open enrollment displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Qualifying life events displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Medicaid renewal displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Medicaid incorrect background color exist<br>]]>
+    </line>
+    <line>
+      <![CDATA[Medicaid padding verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Medicaid plans displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Dual Special Needs plans (D-SNP) displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Children’s Health Insurance plans (CHIP) displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Try our plan eligibility tool displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Dental, vision & more background color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Dental, vision & more padding verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Shop all supplemental plans displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Dental insurance displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Vision insurance displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Accident insurance displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Critical illness insurance displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Hospital & doctor fixed indemnity insurance displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Hospitalization insurance displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Group plans for employers background color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Group plans for employers padding verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Small business displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Large organizations displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[All group plans for employers displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Learn about insurance background color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Learn about insurance padding verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Understanding health insurance displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Open enrollment displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Qualifying life events displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Managing costs displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Medicaid renewal displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Benefits & coverage displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Medicare articles & resources displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Newsroom displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[All news & articles displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Resources displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Choosing a doctor displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Member ID card displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Pharmacy benefits displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Forms displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Health & wellness topics displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[All member resources displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Resources color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Choosing a doctor color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Member ID card color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Pharmacy benefits color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Forms incorrect color exist<br>]]>
+    </line>
+    <line>
+      <![CDATA[Health & wellness topics color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[All member resources color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Programs & tools displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[UHC app displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Rewards programs displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Mental health programs displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Virtual visits displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[All member programs displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[Programs & tools color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[UHC app color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Rewards programs color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Mental health programs color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Virtual visits color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[All member programs color verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[Email Icon displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[invalid email id verified<br>]]>
+    </line>
+    <line>
+      <![CDATA[valid email id verified<br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-10-08T12:24:43 PDT" name="Default suite" finished-at="2023-10-08T12:28:32 PDT" duration-ms="228967">
+    <groups>
+    </groups>
+    <test started-at="2023-10-08T12:24:43 PDT" name="Default test" finished-at="2023-10-08T12:28:32 PDT" duration-ms="228967">
+      <class name="com.uhc.tests.InternalUsersTests">
+        <test-method signature="tc1()[pri:0, instance:com.uhc.tests.InternalUsersTests@3d6f0054]" started-at="2023-10-08T12:24:43 PDT" name="tc1" finished-at="2023-10-08T12:28:32 PDT" duration-ms="228865" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Shop insurance displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Member resources displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Shop insurance displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Medicare displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Health insurance plans displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Medicaid displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Dental, vision & more displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Group plans for employers displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Learn about insurance displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Shop all plans displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Shop insurance color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Medicare color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Health insurance plans color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Medicaid color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Dental, vision & more color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Group plans for employers color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Learn about insurance color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Shop all plans color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Medicare background color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Medicare padding verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Medicare Advantage plans displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Medicare supplement plans displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Medicare prescription drug plans displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Dual Special Needs plan (D-SNP) displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Shop all Medicare plans displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Help me find a plan displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Estimate drug costs displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Search for a pharmacy displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Find a doctor displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Find a dentist displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Medicare overview displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Health insurance plans background color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Health insurance plans padding verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Short term plans displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[ACA marketplace plans displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Plans through work displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[All health insurance plans displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Short term vs. ACA plans displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Open enrollment displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Qualifying life events displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Medicaid renewal displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Medicaid incorrect background color exist<br>]]>
+            </line>
+            <line>
+              <![CDATA[Medicaid padding verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Medicaid plans displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Dual Special Needs plans (D-SNP) displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Children’s Health Insurance plans (CHIP) displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Try our plan eligibility tool displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Dental, vision & more background color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Dental, vision & more padding verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Shop all supplemental plans displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Dental insurance displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Vision insurance displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Accident insurance displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Critical illness insurance displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Hospital & doctor fixed indemnity insurance displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Hospitalization insurance displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Group plans for employers background color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Group plans for employers padding verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Small business displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Large organizations displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[All group plans for employers displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Learn about insurance background color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Learn about insurance padding verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Understanding health insurance displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Open enrollment displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Qualifying life events displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Managing costs displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Medicaid renewal displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Benefits & coverage displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Medicare articles & resources displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Newsroom displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[All news & articles displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Resources displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Choosing a doctor displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Member ID card displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Pharmacy benefits displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Forms displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Health & wellness topics displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[All member resources displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Resources color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Choosing a doctor color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Member ID card color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Pharmacy benefits color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Forms incorrect color exist<br>]]>
+            </line>
+            <line>
+              <![CDATA[Health & wellness topics color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[All member resources color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Programs & tools displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[UHC app displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Rewards programs displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Mental health programs displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Virtual visits displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[All member programs displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[Programs & tools color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[UHC app color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Rewards programs color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Mental health programs color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Virtual visits color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[All member programs color verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[Email Icon displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[invalid email id verified<br>]]>
+            </line>
+            <line>
+              <![CDATA[valid email id verified<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- com.uhc.tests.InternalUsersTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
